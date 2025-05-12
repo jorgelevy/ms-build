@@ -71,7 +71,7 @@ const config: Config = {
       title: 'Microsoft Build 2023.- Fiesta de Comunidad en Español',
       logo: {
         alt: 'Microsoft Build 2025.- Fiesta de Comunidad en Español',
-        src: 'img/logo.svg',
+        src: 'img/JorgeLevy_Avatar.jpg',
       },
       items: [
         // {
@@ -131,7 +131,7 @@ const config: Config = {
         //   ],
         // },
       ],
-      copyright: `Copyright © ${new Date().getFullYear()} JorgeLevy.net | Built with Docusaurus.`,
+      copyright: `Copyright © ${new Date().getFullYear()} <a href="https://jorgelevy.net" target="_blank">JorgeLevy.net</a> | Built with <a href="https://docusaurus.io" target="_blank">Docusaurus</a>.`,
     },
     prism: {
       theme: prismThemes.github,
